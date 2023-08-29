@@ -11,3 +11,4 @@ Version 0.04
 Added start menu and pause
 
 Download APK: https://drive.google.com/file/d/1rSzMGTvMZUoPZSSztGTQ6I_emDkPKmRg/view?usp=drive_link
+GetApps: https://global.app.mi.com/details?lo=ID&la=en_US&id=com.SoRageOwl.SkyLock
