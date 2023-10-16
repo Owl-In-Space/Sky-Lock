@@ -2,6 +2,12 @@
 
 The mobile game is made in the genre of a first-person rail shooter with Tower Defense elements. The goal of the game is to destroy as many flying things as possible (currently only a helicopter) flying over the player before they reach the "capital". To do this, you need to point the sight at the target, wait for the missile to aim and fire. Further, the missile itself must destroy the target. The screenshots show only the work of the main mechanics of the game.
 
+Version 0.07
+
+Added blocks of information about the game. The initial gameplay has been complicated. Added data encryption. Improved performance.
+
+Download APK: https://drive.google.com/file/d/1B6zwv7svRPO6G4r1SH_evmpwKiJxGu79/view?usp=drive_link
+
 Version 0.05
 
 Added an online table of records, automatic generation of game difficulty, briefing at the beginning of the game, saving progress and many other fixes.
