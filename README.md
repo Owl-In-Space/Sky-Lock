@@ -5,6 +5,16 @@ The mobile game is made in the genre of a first-person rail shooter with Tower D
 Google Play: https://play.google.com/store/apps/details?id=com.SoRageOwl.SkyLock&hl=en
 GetApps: https://global.app.mi.com/details?lo=ID&la=en_US&id=com.SoRageOwl.SkyLock
 
+Version 0.17
+
+- New Year has come!
+- The Stinger guidance algorithm is now closer to reality.
+- Added graphics quality selection.
+- Bugs fixed.
+- Improved performance on weak devices.
+
+Download APK: https://drive.google.com/file/d/1Urbtr9qdwwlr_jjiM-zXMiOWUnHWvrll/view?usp=sharing
+
 Version 0.14
 
 - New enemies.
